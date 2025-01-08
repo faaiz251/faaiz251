@@ -1,6 +1,5 @@
 Mohd Faaiz Azeem - A Full Stack Web Developer
 
-About Me
 I'm a passionate Full Stack Developer who loves building web applications from the ground up. With expertise in both frontend and backend technologies, I enjoy creating seamless, user-friendly experiences while writing clean, efficient code.
 
 🛠️ Tech Stack
@@ -28,6 +27,7 @@ Featured Projects
    - A full-stack LeetCode-inspired platform that enables users to practice coding problems, compile and execute code in real-time.
    - For frontend - [REACT.JS , JS, HTML , CSS ] For Backend - [NODE.JS ,EXPRESS.JS , MONGODB]
    - GitHub repo: https://github.com/faaiz251/practicehub-frontend.git
+   - 
 
  🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mohd-faaiz-azeem-2a605428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
