@@ -1,10 +1,10 @@
 Mohd Faaiz Azeem - A Full Stack Web Developer
 
-I'm a passionate Full Stack Developer who loves building web applications from the ground up. With expertise in both frontend and backend technologies, I enjoy creating seamless, user-friendly experiences while writing clean, efficient code.
+I'm a passionate Full Stack Web Developer who loves building web applications from the ground up. With expertise in both frontend and backend technologies, I enjoy creating seamless, user-friendly experiences while writing clean, efficient code.
 
 🛠️ Tech Stack
 Frontend:
-- HTML, CSS, JavaScript
+- HTML,CSS,JavaScript
 - React.js
 - Tailwind CSS
 - TypeScript
