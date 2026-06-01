@@ -4,7 +4,7 @@ Freelancer | Full Stack Web Developer
 
 ## Freelance Work
 
-- **[Voxo International](https://handicreaft-client.vercel.app/)** – Handicraft e-commerce platform with secure Razorpay payment integration and responsive UI.
+- **[Voxo International](https://handicreaft-client-theta.vercel.app/)** – Indian Handicraft e-commerce platform with secure Razorpay payment integration and responsive UI.
 
 ## Projects
 
