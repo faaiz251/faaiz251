@@ -5,6 +5,8 @@ Freelancer | Full Stack Web Developer
 ## Freelance Work
 
 - **[Voxo International](https://handicreaft-client-theta.vercel.app/)** – Indian Handicraft e-commerce platform with secure Razorpay payment integration and responsive UI.
+- **[All Assignment Help](https://all-assignment-help-seven.vercel.app/)** – Designed the frontend for an assignment help and academic support website.
+- **[Eze Credit Platform](https://ez-credit-repair.vercel.app/)** – Built the frontend layout for a credit repair service platform.
 
 ## Projects
 
